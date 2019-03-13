@@ -19,4 +19,4 @@ var funkyFunction = function outsideFunction() {
   };
 };
 
-console.log(funkyFunction())
+console.log(funkyFunction(()))
