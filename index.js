@@ -18,3 +18,4 @@ var funkyFunction = function outsideFunction() {
     return "FUNKY!";
   };
 };
+console.log(funkyFunction)
