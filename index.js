@@ -19,4 +19,5 @@ var funkyFunction = function outsideFunction() {
   };
 };
 
-var 
+var theFunk = funkyFunction()
+theFunk = theFunk()
